@@ -12,3 +12,13 @@ comments:
 
 
 
+variable:
+
+You should use only let and const for these reasons:
+
+● The scope is clearer (between braces).
+
+● It does not create global objects.
+
+● It flags errors if you redeclare them.
+

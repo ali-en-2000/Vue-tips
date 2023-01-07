@@ -1,0 +1,6 @@
+1.Not using magic strings and magic numbers
+  
+    A magic number or magic strings are numbers or strings used
+    directly in the code which often do not have a clear context but
+    do have a purpose. It is best to assign these values to constants,
+    as they can become difficult to understand and debug otherwise.
