@@ -1,0 +1,14 @@
+comments:
+
+● Avoid redundancy in your comments; don’t write what you do, write why you do it.
+
+● Descriptive variable/function/class names are better than descriptive comments.
+
+● Summarize as much as possible; do not write paragraphs if it is not absolutely necessary.
+
+● Try to always use the same language and style of comments.
+
+● Over time, comments are not usually maintained (modified) code is.
+
+
+
